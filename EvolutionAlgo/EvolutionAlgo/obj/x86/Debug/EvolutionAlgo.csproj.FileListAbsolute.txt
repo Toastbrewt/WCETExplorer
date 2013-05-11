@@ -1,0 +1,4 @@
+C:\Users\David\Documents\GitHub\WCETExplorer\EvolutionAlgo\EvolutionAlgo\bin\Debug\EvolutionAlgo.exe
+C:\Users\David\Documents\GitHub\WCETExplorer\EvolutionAlgo\EvolutionAlgo\bin\Debug\EvolutionAlgo.pdb
+C:\Users\David\Documents\GitHub\WCETExplorer\EvolutionAlgo\EvolutionAlgo\obj\x86\Debug\EvolutionAlgo.exe
+C:\Users\David\Documents\GitHub\WCETExplorer\EvolutionAlgo\EvolutionAlgo\obj\x86\Debug\EvolutionAlgo.pdb
