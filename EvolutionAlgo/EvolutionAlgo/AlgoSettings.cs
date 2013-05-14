@@ -24,7 +24,7 @@ namespace EvolutionAlgo
                 this.crossoverCount = crossoverCount;
                 this.mutationRate = mutationRate;
                 this.crossover = crossover;
-
+            //Das ist ein Test
         }
 
 
